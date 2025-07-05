@@ -38,13 +38,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Oriol's GitHub stats](https://github-readme-stats.vercel.app/api?username=OriolVines&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriolVines&layout=compact&theme=github_dark)](https://github.com/OriolVines)
-
----
-
 ### 🤝 Let's Connect
 - 💼 [LinkedIn](www.linkedin.com/in/oriolviñes)
 - ✉️ [oriolvibo04@gmail.com](mailto:oriolvibo04@gmail.com)
