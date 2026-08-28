@@ -22,15 +22,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-
----
-
-### 🚀 Featured Projects
-
-- 🎵 **SpotyStats** — A web application built with Django that connects to the Spotify API to display your personalized music statistics, including top tracks, artists, and listening trends.
 
 ---
 
