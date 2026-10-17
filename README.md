@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Oriol Viñes
 
 🎓 **-Computer Engineering graduate**  
-💡 Passionate about **Artificial Intelligence** and **Data Science**  
+💡 Passionate about **Artificial Intelligence** and **Backend and Infrastructure**  
 🔍 Always curious about new technologies and solving real-world problems with code  
 📍 Based in Lleida, Spain | 📫 Reach me at: [oriolvibo04@gmail.com](mailto:oriolvibo04@gmail.com)
 
